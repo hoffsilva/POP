@@ -1,5 +1,5 @@
 # POP
 
-Programming Onriented Protocol.
+Protocol oriented programming - POP.
 
-Repository of files of pop study.
+Repository pop's files study.
